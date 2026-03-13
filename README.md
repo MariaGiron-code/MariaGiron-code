@@ -1,4 +1,4 @@
-<h2 align="center">Hola 👋! <br>✨ MG Developer<br>🔄 Convirtiendo café y música en código.<br>🛠️ Full-Stack Jr. | Enamorada de JavaScript y React.<br>🚀 Actualmente: Desarrollando la herramienta de organización definitiva para devs.<br>🎧 Fanática de los soundtracks de fondo.</h2>
+<h2 align="center">Hello 👋! <br>✨ I´m MG Developer<br> 🚀 Actualmente: Desarrollando la herramienta de organización definitiva para devs.<br>🎧 Fanática de los soundtracks de fondo.</h2>
 
 ###
 
